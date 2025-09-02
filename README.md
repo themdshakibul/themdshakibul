@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **contact.mdshakibulislam@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://themdshakibul.github.io/Shakibul-s-Protfolio/](https://themdshakibul.github.io/Shakibul-s-Protfolio/)
+- 👨‍💻 All of my projects are available at [https://themdshakibul.github.io/Shakibul-s-Protfolio/](https://themdshakibul.github.io/Md-Shakibul-Islam/)
 
 - ⚡ Fun fact **I think I am funny**
 
