@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Md Shakibul Islam</h1>
-<h3 align="center">I am a Frontent Developer. I have completed around 5+ Projects. I am now ready to get hired. Lets explore my Github and connect with me. I want to express my innovative, creative skills for company growth through the assigned responsibility.</h3>
+<h3 align="center">I am a Front-End Developer. I have completed around 5+ Projects. I am now ready to get hired. Lets explore my Github and connect with me. I want to express my innovative, creative skills for company growth through the assigned responsibility.</h3>
 
 <br/>
 <hr/>
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **contact.mdshakibulislam@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://themdshakibul.github.io/Md-Shakibul-Islam/](https://themdshakibul.github.io/Md-Shakibul-Islam/)
+- 👨‍💻 Check out my portfolio and projects at [https://themdshakibul.github.io/Md-Shakibul-Islam/](https://themdshakibul.github.io/Md-Shakibul-Islam/)
 
 - ⚡ Fun fact **I think I am funny**
 
