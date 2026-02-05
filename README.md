@@ -51,14 +51,14 @@
   <tr>
     <td align="center">
   <img 
-    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Ashikur07&layout=compact&theme=vision-friendly-dark&bg_color=000000&title_color=c56a90&text_color=ffffff" 
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=themdshakibul&layout=compact&theme=vision-friendly-dark&bg_color=000000&title_color=c56a90&text_color=ffffff" 
     alt="Top Languages" 
     height="165" 
   />
 </td>
     <td>
       <img height="180em" 
-           src="https://github-readme-streak-stats-eight.vercel.app/?user=ashikur07&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" 
+           src="https://github-readme-streak-stats-eight.vercel.app/?user=themdshakibul&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" 
            alt="ashikur07" />
     </td>
   </tr>
