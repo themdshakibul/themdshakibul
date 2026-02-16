@@ -1,5 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Md Shakibul Islam</h1>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Md+Shakibul+Islam!;+a+passionate+web+developer;skilled+in+the+MERN+stack" />
+</h1>
+
+
 <h3 align="center">I am a Front-End Developer. I have completed around 9+ Projects. I am now ready to get hired. Lets explore my Github and connect with me. I want to express my innovative, creative skills for company growth through the assigned responsibility.</h3>
 
 <br/>
