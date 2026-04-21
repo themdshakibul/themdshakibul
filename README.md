@@ -1,3 +1,4 @@
+<img width="6250" height="1872" alt="MERNdeveloper" src="https://github.com/user-attachments/assets/98b4ca7e-d881-4044-ac1d-e6c87631e8fc" />
 
 
 <h1 align="center">
@@ -5,7 +6,7 @@
 </h1>
 
 
-<h3 align="center">I am a Front-End Developer. I have completed around 9+ Projects. I am now ready to get hired. Lets explore my Github and connect with me. I want to express my innovative, creative skills for company growth through the assigned responsibility.</h3>
+<h3 align="center">I am a MERN Stack Developer. I have completed around 9+ Projects. I am now ready to get hired. Lets explore my Github and connect with me. I want to express my innovative, creative skills for company growth through the assigned responsibility.</h3>
 
 <br/>
 <hr/>
@@ -19,11 +20,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themdshakibul&label=Profile%20views&color=0e75b6&style=flat" alt="themdshakibul" /> </p>
 
 
-- 🔭 I’m currently working on **JavaScript, React NodeJs**
+- 🔭 I’m currently working on **JavaScript, React, NodeJs**
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **JavaScript, React, ReactJS Java**
+- 💬 Ask me about **JavaScript, React, ReactJS**
 
 - 📫 How to reach me **contact.mdshakibulislam@gmail.com**
 
