@@ -98,19 +98,19 @@
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
-<table align="center">
+<table align="center" style="width: 100%; border: none;">
   <tr>
-    <td align="center">
-  <img 
-    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=themdshakibul&layout=compact&theme=vision-friendly-dark&bg_color=000000&title_color=c56a90&text_color=ffffff" 
-    alt="Top Languages" 
-    height="165" 
-  />
-</td>
-    <td>
-      <img height="180em" 
+    <td align="center" style="padding: 10px;">
+      <img 
+        src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=themdshakibul&layout=compact&theme=vision-friendly-dark&bg_color=000000&title_color=c56a90&text_color=ffffff&hide=html,css" 
+        alt="Top Languages" 
+        height="165" 
+      />
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img height="165" 
            src="https://github-readme-streak-stats-eight.vercel.app/?user=themdshakibul&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" 
-           alt="ashikur07" />
+           alt="Md Shakibul Islam" />
     </td>
   </tr>
 </table>
