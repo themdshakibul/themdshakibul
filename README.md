@@ -56,46 +56,40 @@
 
 
 <br/>
-<h3 align="center">My Skilled Language and Tools:</h3> 
+
+<h3 align="center">⚡ My Tech Stack & Tools ⚡</h3>
+
+<br/>
+
+
+
 
 <div align="center">
+
   <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
+  <p><b>Languages</b></p>
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp" alt="languages" />
 
   <!-- Frontend -->
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  <img width="12" />
-
-  <!-- Backend -->
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
- <img src="https://skillicons.dev/icons?i=express" height="40" />
-
-  <!-- Database -->
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
-
-  <!-- Tools -->
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
+  <p><b>Frontend & Styling</b></p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind" alt="frontend" />
   
-  <!-- Linux -->
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="12" />
+  <!-- Backend -->
+  <p><b>Backend</b></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" alt="backend" />
+  
+  <!-- Databases & Cloud -->
+  <p><b>Databases & Cloud</b></p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" alt="database and cloud" />
+  
+  <!-- Tools & OS -->
+  <p><b>Tools & Environment</b></p>
+  <img src="https://skillicons.dev/icons?i=git,docker,postman,linux" alt="tools" />
 
 </div>
-
-
-
-
+<div>
+    
+</div>
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table align="center" style="width: 100%; border: none;">
