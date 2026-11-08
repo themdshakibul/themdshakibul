@@ -1,12 +1,10 @@
-<img width="6250" height="1872" alt="MERNdeveloper" src="https://github.com/user-attachments/assets/98b4ca7e-d881-4044-ac1d-e6c87631e8fc" />
-
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Md+Shakibul+Islam!;+a+passionate+web+developer;skilled+in+the+MERN+stack" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Md+Shakibul+Islam!;+a+Passionate+Softwear+Engineer;Skilled+in+the+Full+Stack+Developer" />
 </h1>
 
 
-<h3 align="center">I am a MERN Stack Developer. I have completed around 9+ Projects. I am now ready to get hired. Lets explore my Github and connect with me. I want to express my innovative, creative skills for company growth through the assigned responsibility.</h3>
+<h3 align="center">I am a Full Stack Developer. I have completed around 10+ Projects. I am now ready to get hired. Lets explore my Github and connect with me. I want to express my innovative, creative skills for company growth through the assigned responsibility.</h3>
 
 <br/>
 <hr/>
@@ -117,15 +115,5 @@
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=themdshakibul&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
-
----
-
-
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Browning&quote=My%20sun%20sets%20to%20rise%20again.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
-</p>
 
 
